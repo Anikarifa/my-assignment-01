@@ -30,3 +30,18 @@ font-weight: bold;}
 justify-content: space-between;
 margin: 200px 80px;}
 .img{border-radius: 20px;}
+/* section2 */
+.shadu{text-align: center;
+background-color:#e3e2f0;
+padding: 5px 0px;
+border: 50PX;
+border-radius: 10px;
+max-width: 1000px;
+margin: 50px;}
+.shadu-main{display: flex;
+justify-content: space-around;}
+.shadu-sub h3{font-size: 35px;
+color: #4E47FF;
+margin-bottom: 10px;}
+.shadu-sub p {color: darkgray;
+font-size: 15px;}
