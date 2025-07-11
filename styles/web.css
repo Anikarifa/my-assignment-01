@@ -32,7 +32,7 @@ margin: 200px 80px;}
 .img{border-radius: 20px;}
 /* section2 */
 .shadu{text-align: center;
-background-color:#e3e2f0;
+background-color:#D6DDED;
 padding: 5px 0px;
 border: 50PX;
 border-radius: 10px;
@@ -45,3 +45,12 @@ color: #4E47FF;
 margin-bottom: 10px;}
 .shadu-sub p {color: darkgray;
 font-size: 15px;}
+.foot{background-color:#edf2f9;
+display: flex;
+justify-content: space-between;
+align-items: center;}
+.footer-column{display: flex;
+width: 100%;
+padding: 10px;
+border-radius: 5px;
+margin: 50px;}
