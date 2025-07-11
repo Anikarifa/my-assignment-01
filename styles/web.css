@@ -54,3 +54,11 @@ width: 100%;
 padding: 10px;
 border-radius: 5px;
 margin: 50px;}
+.foot-design{text-align: center;
+margin: 100px;}
+.paji-meye{font-size: 15px;
+color: darkgrey;}
+.paji{color: darkgrey;}
+
+.paji-meye{display: flex;
+justify-content: space-around;}
